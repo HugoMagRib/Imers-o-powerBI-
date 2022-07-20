@@ -1,6 +1,6 @@
 # Dashboard de projeto
 ## Entendimento do case e requisitos dessa análise de dados
-É elaborado um dashboard para acompanhar o andamento de um projeto de implementação de power BI em uma empresa, é solicitado um reposrt semanal das atividades.
+É elaborado um dashboard para acompanhar o andamento de um projeto de implementação de power BI em uma empresa, é solicitado um report semanal das atividades.
 Com cronograma, curva de progresso e listagem de atividades
 
 # Dashboard
