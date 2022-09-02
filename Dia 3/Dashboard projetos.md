@@ -4,10 +4,11 @@
 Com cronograma, curva de progresso e listagem de atividades
 
 # Dashboard
-### Pagina 1
-![Captura de tela 2022-07-01 123626](https://user-images.githubusercontent.com/18721122/180004070-507f54af-1daa-4881-967b-050496357fe8.png)
-### Pagina 2
-![Captura de tela 2022-07-01 123719](https://user-images.githubusercontent.com/18721122/180004343-9d4ea29d-e3a3-4478-9c1d-f8bc58f0dec6.png)
+
+
+https://user-images.githubusercontent.com/18721122/188169580-6241d55a-ddca-494d-8fee-d121fc899db3.mp4
+
+
 
 ## Processos Realizados:  
 
